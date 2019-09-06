@@ -7,4 +7,6 @@ Video Rental application Developed in Python
 - django project setup [`django-admin startproject vinvid`]
 - django run server [`python manage.py runserver`] 
 - Create Database Migrations [`python manage.py makemigrations`]
-- Migrate the Chnage to Database [`python manage.py migrate`] 
+- Migrate the Chnage to Database [`python manage.py migrate`]
+- Making new Migrations [`python manage.py makemigrations`]
+- view SQL query for Migration [`python manage.py sqlmigrate movies 0001`]
