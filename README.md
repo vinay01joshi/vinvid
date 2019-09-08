@@ -16,3 +16,8 @@ Video Rental application Developed in Python
 # Admin App Commands
 - Create Super user in admin app [`python manage.py createsuperuser`]
 
+
+# Deployment
+- collect all the static file and copy and paste inside the static folder [`python manage.py collectstatic`]
+- server on production [`pipenv install gunicorn`]
+- Serve static file on Heroku the package is whilenoise [`pipenv install whiltenoise`]
