@@ -21,3 +21,10 @@ Video Rental application Developed in Python
 - collect all the static file and copy and paste inside the static folder [`python manage.py collectstatic`]
 - server on production [`pipenv install gunicorn`]
 - Serve static file on Heroku the package is whilenoise [`pipenv install whiltenoise`]
+
+# Heorku Deployment command
+- `heroku login`
+- `heroku create`
+- `git push heroku master`
+- `heroku ps:scale web=1`
+- `heroku open`
