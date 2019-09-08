@@ -25,7 +25,7 @@ SECRET_KEY = '!ib*ed%ja#u$@#g=_9)hd^v3(a!h_pie^u%8q0t^3+h!)ryqai'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mighty-inlet-24832.herokuapp.com']
 
 
 # Application definition
