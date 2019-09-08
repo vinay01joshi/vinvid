@@ -1,19 +1,21 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1d72ac6c5259e84c702f7d2afd9dff5d71e49ca344ce3ab9774ee865f903c69c"
+            <<
+            << << < HEAD "sha256": "1d72ac6c5259e84c702f7d2afd9dff5d71e49ca344ce3ab9774ee865f903c69c" ===
+                === =
+                "sha256": "bd583f9a17a6d2599f23302ce8cfa95e203a27784c2bb1e98d8c575e55cafe0d" >>>
+                >>> > f56345218889248c107ab8e1d6bae6b1d9e0e0a1
         },
         "pipfile-spec": 6,
         "requires": {
             "python_version": "3.7"
         },
-        "sources": [
-            {
-                "name": "pypi",
-                "url": "https://pypi.org/simple",
-                "verify_ssl": true
-            }
-        ]
+        "sources": [{
+            "name": "pypi",
+            "url": "https://pypi.org/simple",
+            "verify_ssl": true
+        }]
     },
     "default": {
         "astroid": {
