@@ -1,5 +1,5 @@
 # vinvid
-Video Rental application Developed in Python
+Video Rental application Developed in Python and Deployed on Heroku
 
 
 # djengo Commands 
